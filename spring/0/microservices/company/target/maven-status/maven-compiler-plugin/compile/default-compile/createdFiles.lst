@@ -1,0 +1,12 @@
+com\illunex\invest\company\CompanyApplication.class
+com\illunex\invest\company\persistence\repository\CompanyProductRepository.class
+com\illunex\invest\company\persistence\repository\CompanyRepository.class
+com\illunex\invest\company\persistence\entity\CompanyMember.class
+com\illunex\invest\company\persistence\repository\CompanyMemberRepository.class
+com\illunex\invest\company\persistence\entity\Keyword.class
+com\illunex\invest\company\controller\CompanyController.class
+com\illunex\invest\company\persistence\repository\KeywordRepository.class
+com\illunex\invest\company\configuration\ApplicationConfiguration.class
+com\illunex\invest\company\controller\MessageController.class
+com\illunex\invest\company\persistence\entity\Company.class
+com\illunex\invest\company\persistence\entity\CompanyProduct.class

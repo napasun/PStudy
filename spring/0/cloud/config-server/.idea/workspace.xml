@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c5442c6-5022-4a83-9f11-62489559415b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/spring_1_5th/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1/spring_1_5th/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/spring_1_5th/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1/spring_1_5th/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1Wi3NIsWZEHFQt4QTRJmAIDBjrr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.illunex.invest.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c5442c6-5022-4a83-9f11-62489559415b" name="Default Changelist" comment="" />
+      <created>1579618546948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579618546948</updated>
+      <workItem from="1579618550382" duration="1009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1573" height="538" key="GridCell.Tab.0.bottom" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.0.bottom/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.0.center" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.0.center/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.0.left" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.0.left/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.0.right" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.0.right/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.1.bottom" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.1.bottom/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.1.center" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.1.center/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.1.left" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.1.left/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+    <state width="1573" height="538" key="GridCell.Tab.1.right" timestamp="1579619607379">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1573" height="538" key="GridCell.Tab.1.right/2560.0.2048.1112/0.0.2560.1400@0.0.2560.1400" timestamp="1579619607379" />
+  </component>
+</project>
