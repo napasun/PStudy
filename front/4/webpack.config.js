@@ -1,5 +1,5 @@
-const path = require('path')                                        // core nodejs 모듈 중 하나, 파일 경로 설정할 때 사용
-const HtmlWebpackPlugin = require('html-webpack-plugin')            // index.html 파일을 dist 폴더에 index_bundle.js 파일과 함께 자동으로 생성, 우리는 그냥 시작만 하고싶지 귀찮게 index.html 파일까지 만들고 싶지 않다.!!
+var path = require('path')                                        // core nodejs 모듈 중 하나, 파일 경로 설정할 때 사용
+var HtmlWebpackPlugin = require('html-webpack-plugin')            // index.html 파일을 dist 폴더에 index_bundle.js 파일과 함께 자동으로 생성, 우리는 그냥 시작만 하고싶지 귀찮게 index.html 파일까지 만들고 싶지 않다.!!
 
 module.exports = {                                      // moduel export (옛날 방식..)
     entry: './src/index.js',                            // 리액트 파일이 시작하는 곳
@@ -15,6 +15,12 @@ module.exports = {                                      // moduel export (옛날
                 use:{
                     loader: 'babel-loader'				// babel loader가 파이프를 통해 js 코드를 불러옴
                 }
+            },
+            {
+                enforce: 'pre',                         // 바벨이 소스를 변형하기 전에 먼저 검사를 하기 위해 설정
+                test: /\.js$/,
+                loader: 'eslint-loader',
+                exclude: /(node_modules)/
             }
         ]
     },
